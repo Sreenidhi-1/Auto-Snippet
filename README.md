@@ -1,1 +1,1 @@
-# Auto Code Python
+# Auto Snippet
